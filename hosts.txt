@@ -8,3 +8,5 @@
 0.0.0.0 log.outbrainimg.com
 0.0.0.0 mcdp-nydc1.outbrain.com
 0.0.0.0 euw1.smartadserver.com
+0.0.0.0 de.f11-ads.com
+0.0.0.0 
