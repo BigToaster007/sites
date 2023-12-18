@@ -1,2 +1,10 @@
 0.0.0.0 outbrain.com
 0.0.0.0 ad.yieldlab.com
+0.0.0.0 wave.outbrain.com
+0.0.0.0 nydc1.outbrain.org
+0.0.0.0 tr.outbrain.com
+0.0.0.0 amplify.outbrain.com
+0.0.0.0 www.outbrian.com
+0.0.0.0 log.outbrainimg.com
+0.0.0.0 mcdp-nydc1.outbrain.com
+0.0.0.0 euw1.smartadserver.com
