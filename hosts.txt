@@ -16,3 +16,11 @@
 ||googlesyndication.com^
 ||ad-production-stage.com^
 ||adclick.g.doubleclick.net^
+||vastcdn.outbrain.com^
+||showheroes.com^^
+||monetize-stream.viralize.tv^
+||viralize.tv^
+||widgets.outbrain.com^
+||aax-eu.amazon-adsystem.com^
+||amazon-adsystem.com^
+||libs.outbrain.com^
