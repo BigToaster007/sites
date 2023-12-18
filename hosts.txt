@@ -17,7 +17,7 @@
 ||ad-production-stage.com^
 ||adclick.g.doubleclick.net^
 ||vastcdn.outbrain.com^
-||showheroes.com^^
+||showheroes.com^
 ||monetize-stream.viralize.tv^
 ||viralize.tv^
 ||widgets.outbrain.com^
