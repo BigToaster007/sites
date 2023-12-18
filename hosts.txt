@@ -1,12 +1,19 @@
-0.0.0.0 outbrain.com
-0.0.0.0 ad.yieldlab.com
-0.0.0.0 wave.outbrain.com
-0.0.0.0 nydc1.outbrain.org
-0.0.0.0 tr.outbrain.com
-0.0.0.0 amplify.outbrain.com
-0.0.0.0 www.outbrian.com
-0.0.0.0 log.outbrainimg.com
-0.0.0.0 mcdp-nydc1.outbrain.com
-0.0.0.0 euw1.smartadserver.com
-0.0.0.0 de.f11-ads.com
-0.0.0.0 
+||outbrain.com^
+||ad.yieldlab.com^
+||wave.outbrain.com^
+||nydc1.outbrain.org^
+||tr.outbrain.com^
+||amplify.outbrain.com^
+||www.outbrian.com^
+||log.outbrainimg.com^
+||mcdp-nydc1.outbrain.com^
+||euw1.smartadserver.com^
+||de.f11-ads.com^
+||ad-production-stage.com^
+||outbrainimg.com^
+||
+||
+||
+||
+||
+||
