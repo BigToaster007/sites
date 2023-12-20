@@ -24,3 +24,4 @@
 ||aax-eu.amazon-adsystem.com^
 ||amazon-adsystem.com^
 ||libs.outbrain.com^
+||advertising.amazon.dev^
