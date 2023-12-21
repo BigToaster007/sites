@@ -25,3 +25,4 @@
 ||amazon-adsystem.com^
 ||libs.outbrain.com^
 ||advertising.amazon.dev^
+||ads.twitch.tv^
