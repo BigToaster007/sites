@@ -4,7 +4,6 @@
 ||nydc1.outbrain.org^
 ||tr.outbrain.com^
 ||amplify.outbrain.com^
-||outbrian.com^
 ||log.outbrainimg.com^
 ||mcdp-nydc1.outbrain.com^
 ||euw1.smartadserver.com^
