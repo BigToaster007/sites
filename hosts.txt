@@ -25,4 +25,3 @@
 ||libs.outbrain.com^
 ||advertising.amazon.dev^
 ||ads.twitch.tv^
-||advertising.amazon.dev^
