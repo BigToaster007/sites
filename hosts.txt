@@ -28,7 +28,3 @@
 ||epnt.ebay^
 ||i.ebayimg^
 ||admarkt.kleinanzeigen^
-||service.minerva.devices.a2z.com^
-||cf.dash.row.aiv-cdn.net^
-||aiv-delivery.net^
-||akamaihd.net^
