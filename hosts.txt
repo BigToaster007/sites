@@ -29,3 +29,4 @@
 ||i.ebayimg^
 ||admarkt.kleinanzeigen^
 ||service.minerva.devices.a2z.com^
+||cf.dash.row.aiv-cdn.net^
