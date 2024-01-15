@@ -29,3 +29,6 @@
 ||i.ebayimg^
 ||admarkt.kleinanzeigen^
 ||html-load.com^
+||yimg.com^
+||nativendo.de^
+||
