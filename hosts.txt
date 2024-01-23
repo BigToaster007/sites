@@ -34,3 +34,4 @@
 ||googleadservices^
 ||ka.images.icas.io^
 ||admarkt.kleinanzeigen.de^
+||google.com/adsense^
