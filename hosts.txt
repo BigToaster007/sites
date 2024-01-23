@@ -31,3 +31,6 @@
 ||html-load.com^
 ||yimg.com^
 ||nativendo.de^
+||googleadservices^
+||ka.images.icas.io^
+||admarkt.kleinanzeigen.de^
