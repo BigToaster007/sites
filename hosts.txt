@@ -25,3 +25,4 @@
 ||ka.images.icas.io^
 ||admarkt.kleinanzeigen.de^
 ||elb.amazonaws.com^
+||pdx01.abs.hls.ttvnw.net^
