@@ -25,3 +25,6 @@
 ||admarkt.kleinanzeigen.de^
 ||elb.amazonaws.com^
 ||pdx01.abs.hls.ttvnw.net^
+||dus01.hls.ttvnw.net^
+||amazontrust.com^
+||poe.live-video.net^
