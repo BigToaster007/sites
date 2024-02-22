@@ -1,6 +1,5 @@
 ||outbrain.com^
 ||ad.yieldlab.com^
-||mcdp-nydc1.outbrain.com^
 ||smartadserver.com^
 ||f11-ads.com^
 ||ad-production-stage.com^
