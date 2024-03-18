@@ -22,6 +22,5 @@
 ||googleadservices^
 ||ka.images.icas.io^
 ||admarkt.kleinanzeigen.de^
-||elb.amazonaws.com^
 ||amazontrust.com^
 ||poe.live-video.net^
